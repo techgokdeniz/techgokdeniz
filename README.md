@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=gokdenizcetin.com.tr&style=for-the-badge&url=https://gokdenizcetin.com.tr/)](https://gokdenizcetin.com.tr)
 [![Twitter Follow](https://img.shields.io/twitter/follow/gokveyadeniz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/gokveyadeniz)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Student, Instructor and Developer!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
