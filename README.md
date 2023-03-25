@@ -41,3 +41,15 @@
 [twitter]: https://twitter.com/gokveyadeiz
 [instagram]: https://instagram.com/gokdenizcetin
 [linkedin]: https://www.linkedin.com/in/gokdeniz/
+
+<!--Statistics-->
+<div align="center">
+  <div align="center">
+    <a href="https://github.com/techgokdeniz/github-profile-views-counter">
+        <img align="center" src="https://komarev.com/ghpvc/?username=techgokdeniz&color=f75c7e">
+    </a>
+  </div>
+  <br>
+  <br>
+</div>
+
